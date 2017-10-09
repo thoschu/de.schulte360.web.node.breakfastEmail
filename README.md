@@ -1,1 +1,1 @@
-# de.schulte360.web.node.breakfastEmail
+# de.schulte360.web.node.breakfastmailer
